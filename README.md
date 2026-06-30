@@ -2,4 +2,4 @@
 ---
 * Red Hat Openshift Node.js Hello World application
 ---
-Just use ```curl http://...``` in your bash to run.
+* Just use ```curl http://...``` in your bash to run.
